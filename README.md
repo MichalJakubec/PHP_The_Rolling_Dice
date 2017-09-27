@@ -1,0 +1,1 @@
+Simple random generator of numbers from 1 to 6 in OOP. Thank you for trying it!
